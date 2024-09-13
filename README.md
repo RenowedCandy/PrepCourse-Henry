@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repo del modulo2 del prepc de Henry
+Este proyecto es una prueba  de como crear un repositorio
+
